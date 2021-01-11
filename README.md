@@ -10,4 +10,8 @@ This app shows on how to add custom fonts in your java project.
 Below are example screenshots on showing three types of fonts. Two fonts in TextView and One for the Button.
 
 ## Start Up
+![Screenshot_20210111-125411](https://user-images.githubusercontent.com/40444648/104148334-d4b67480-540c-11eb-9bb6-5e5d014eb15a.png)
+
+## Button Clicked
+![Screenshot_20210111-125442](https://user-images.githubusercontent.com/40444648/104148346-e009a000-540c-11eb-9a01-107322d5d62b.png)
 
